@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import PropTypes from 'prop-types';
 
 // @ts-ignore
-import classes from './BurgerIngredients.css';
+import classes from './BurgerIngredient.css';
 
 class BurgerIngredient extends Component {
 	
